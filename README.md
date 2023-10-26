@@ -4,7 +4,7 @@ Simulation subject within the Multimedia Engineering degree from the ETSE - Univ
 
 🎞️ Video with the result: https://www.youtube.com/watch?v=I4HdElsF9WA&list=PLSuDG4mVIcvdQo-eBHfHp6HFdvB0oJLz5&index=9
 
-![Descriptive image of the exercise.]([https://github.com/ximo99/SIM-practice1-ex1/blob/main/ex1-photo.jpg](https://github.com/ximo99/SIM-practice5-ex1/blob/main/Imatge1.jpg))
+![Descriptive image of the exercise.](https://github.com/ximo99/SIM-practice5-ex1/blob/main/Imatge1.jpg)
 
 # Project setup
 The user can interact with the system and perform the following actions. To do this, in the first exercise, you must press different keys:
