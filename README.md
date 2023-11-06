@@ -1,4 +1,4 @@
-﻿# Practice 5, exercise 1: sea waves. Simulation.
+﻿# Simulation. Practice 5, exercise 1: sea waves.
 Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. April 2022. Practice 5, exercise 1. Rating 9. It is requested to achieve realistic simulation of different waves based on height maps. In the first exercise, the user will be able to generate different types of waves with the help of the keyboard and combine them.
 
 
